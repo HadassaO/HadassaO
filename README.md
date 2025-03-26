@@ -7,7 +7,7 @@ I thrive in problem-solving environments and love tackling new challenges in bot
 
 ## 🚀 Skills & Technologies
 
-- **Programming**: C, C++, C#, Java, Python, SystemVerilog
+- **Programming**: C, C++, C#, Java, Python.
 - **Web**: React, Node.js, .Net Core, SQL Server, MongoDB
 - **Hardware & Verification**: SystemVerilog UVM, SVA, VLSI, Digital Systems
 - **Tools**: Git, GitHub Actions, AWS, Firebase, Linux, Windows
