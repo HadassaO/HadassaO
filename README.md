@@ -1,4 +1,4 @@
-# Hi there, I'm Hadassa Oustatcher! 👋  
+# Hi there, I'm Hadassa 👋  
 
 ## 💻 About Me  
 
