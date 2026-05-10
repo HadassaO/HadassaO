@@ -1,26 +1,60 @@
-# Hi there, I'm Hadassa 👋  
+# Hi there, I'm Hadassa 👋
 
-## 💻 About Me  
+## 💡 About Me
 
-I am a passionate and dedicated **Software Developer** with a strong background in **Full Stack Development** and **Hardware Verification**.  
-I thrive in problem-solving environments and love tackling new challenges in both software and hardware domains.  
+I'm a software engineer with ~2 years of experience. Most recently I worked as a Backend Engineer at PayPal, and before that as a Full Stack Developer.
 
-## 🚀 Skills & Technologies
+I have hands-on experience across backend and frontend development, as well as AI Engineering — including working with LLMs and integrating them into real production workflows.
 
-- **Programming**: C, C++, C#, Java, Python.
-- **Web**: JavaScript, React, Node.js, .Net Core, SQL Server, MongoDB
-- **Hardware & Verification**: SystemVerilog UVM, SVA, Digital Systems
-- **Tools**: Git, GitHub Actions, AWS, Firebase, Linux, Windows
+---
 
+## 🛠️ Tech Stack
 
-## 📚 Education & Training  
+**Languages**
+`Python` `TypeScript` `JavaScript` `Java` `C++` `C#`
 
-- **Software Engineering Certificate (MAHAT)** – Embedded Systems (2022-2024)  
-- **Kamatech Bootcamp @ Mobileye & Hardware Verification Training** (2024)  
-- **Data Structures & Algorithms Training** – C++ (KamaTech - Ultra Code)  
+**Cloud & Data**
+`GCP (BigQuery · GCS · Dataproc)` `Apache Spark` `AWS` `Firebase`
+`SQL` `MongoDB` `MySQL`
 
-## 📫 Contact Me 
+**Frameworks & Runtimes**
+`Node.js` `React 18` `.NET Core` `tRPC`
 
-📧 [hadassa.oustatcher@gmail.com](mailto:hadassa.oustatcher@gmail.com)  
+**AI & LLMs**
+`LangChain` `LangGraph` `OpenAI API` `RAG` `Prompt Engineering`
 
-📌 **Always open to learning, collaborating, and tackling exciting new challenges!** 🚀  
+**DevOps & Tools**
+`GitHub Actions` `Jenkins` `CI/CD`
+
+---
+
+## 💼 Experience
+
+### Backend Software Engineer — PayPal *(2025 – Present)*
+- Built an LLM-powered incident response agent that automates root cause analysis of failed Apache Spark jobs at scale — significantly reducing manual triage effort across teams.
+- Engineered and maintained large-scale data pipelines, analytics reporting systems, and a data validation framework on GCP — improving data quality and cutting anomaly detection runtime.
+
+### Full Stack Developer — Hashadchan *(2024 – 2025)*
+- Led end-to-end feature development for a production-scale matchmaking platform, owning frontend, backend, and infrastructure.
+- Built CI/CD pipelines with GitHub Actions and managed deployments on AWS and Firebase.
+
+---
+
+## 🎓 Education & Training
+
+| Year | Program |
+|------|---------|
+| 2025 | AI for Developers — Yaniv Arad Training (ML, Generative AI, LLM integration) |
+| 2024 | Kamatech Bootcamp @ Mobileye — Hardware Verification (SystemVerilog, UVM, SVA) |
+| 2022–2024 | Software Engineering Diploma (MAHAT) — Mercaz Beit Yaakov, Embedded Systems |
+
+---
+
+## 📫 Get in Touch
+
+- 📧 hadassa.oustatcher@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hadassa-oustatcher-ab25143ab/)
+
+---
+
+*Always learning. Always building.*
